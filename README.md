@@ -1,6 +1,7 @@
 # Smart Recipe Generator
 
-**Live app:** https://smart-recipe-generator.netlify.app 
+Live app: https://smart-recipe-generator1.netlify.app
+
 
 This project recognizes ingredients from images, matches them to recipes, suggests substitutions, and handles dietary restrictions. It is built with React (Vite) + Tailwind CSS and deployed on Netlify.
 
