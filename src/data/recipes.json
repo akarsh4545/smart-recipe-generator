@@ -1,0 +1,1106 @@
+[
+  {
+    "id": 1,
+    "name": "Veggie Stir-Fry",
+    "cuisine": "Asian",
+    "difficulty": "easy",
+    "time": 20,
+    "dietary": [
+      "vegetarian",
+      "dairy-free"
+    ],
+    "ingredients": [
+      "1 cup broccoli florets",
+      "1 cup bell peppers, sliced",
+      "1 cup mushrooms, sliced",
+      "2 tbsp soy sauce",
+      "1 tbsp oil",
+      "1 tsp garlic, minced"
+    ],
+    "steps": [
+      "Heat oil in a pan.",
+      "Add garlic, saut\u00e9 30s.",
+      "Add veggies; stir-fry 5\u20136 min.",
+      "Pour soy sauce; toss and cook 1 min.",
+      "Serve hot over rice."
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein_g": 8,
+      "carbs_g": 28,
+      "fat_g": 9
+    },
+    "substitutions": {
+      "soy sauce": [
+        "tamari",
+        "coconut aminos"
+      ],
+      "mushrooms": [
+        "zucchini"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 2,
+    "name": "Grilled Chicken Salad",
+    "cuisine": "American",
+    "difficulty": "easy",
+    "time": 25,
+    "dietary": [
+      "gluten-free"
+    ],
+    "ingredients": [
+      "200 g chicken breast",
+      "2 cup lettuce",
+      "1 cup cherry tomatoes",
+      "1/2 cup cucumber, sliced",
+      "2 tbsp olive oil",
+      "1 tbsp lemon juice",
+      "1/4 tsp salt",
+      "1/4 tsp black pepper"
+    ],
+    "steps": [
+      "Season chicken with salt and pepper.",
+      "Grill or pan-cook 6\u20137 min each side.",
+      "Slice chicken.",
+      "Toss veggies with oil and lemon.",
+      "Top with chicken and serve."
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein_g": 35,
+      "carbs_g": 8,
+      "fat_g": 20
+    },
+    "substitutions": {
+      "chicken breast": [
+        "tofu",
+        "paneer"
+      ],
+      "olive oil": [
+        "any neutral oil"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 3,
+    "name": "Masala Omelette",
+    "cuisine": "Indian",
+    "difficulty": "easy",
+    "time": 10,
+    "dietary": [
+      "gluten-free"
+    ],
+    "ingredients": [
+      "2 eggs",
+      "1/4 cup onion, chopped",
+      "1/4 cup tomato, chopped",
+      "1 green chili, chopped",
+      "1 tbsp oil",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Beat eggs with salt.",
+      "Heat oil; saut\u00e9 onion, chili 1 min.",
+      "Add tomato; cook 1 min.",
+      "Pour eggs; cook until set, fold and serve."
+    ],
+    "nutrition": {
+      "calories": 230,
+      "protein_g": 14,
+      "carbs_g": 4,
+      "fat_g": 18
+    },
+    "substitutions": {
+      "eggs": [
+        "chickpea flour batter"
+      ],
+      "oil": [
+        "ghee",
+        "butter"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 4,
+    "name": "Chana Masala",
+    "cuisine": "Indian",
+    "difficulty": "medium",
+    "time": 35,
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "ingredients": [
+      "2 cup cooked chickpeas",
+      "1 cup onion, chopped",
+      "1 cup tomato puree",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp cumin",
+      "1 tsp garam masala",
+      "1 tbsp oil",
+      "1 tsp salt"
+    ],
+    "steps": [
+      "Heat oil; sizzle cumin.",
+      "Add onion; cook golden.",
+      "Stir ginger-garlic 30s.",
+      "Add tomato puree; cook 5\u20136 min.",
+      "Add chickpeas, garam masala, salt; simmer 10 min."
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein_g": 14,
+      "carbs_g": 45,
+      "fat_g": 10
+    },
+    "substitutions": {
+      "chickpeas": [
+        "kidney beans"
+      ],
+      "garam masala": [
+        "curry powder"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 5,
+    "name": "Pesto Pasta",
+    "cuisine": "Italian",
+    "difficulty": "easy",
+    "time": 20,
+    "dietary": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "200 g pasta",
+      "1 cup basil leaves",
+      "2 tbsp olive oil",
+      "2 tbsp parmesan, grated",
+      "1 tbsp pine nuts",
+      "1/4 tsp salt",
+      "1 clove garlic"
+    ],
+    "steps": [
+      "Cook pasta until al dente.",
+      "Blend basil, oil, parmesan, pine nuts, garlic, salt.",
+      "Toss pasta with pesto; adjust seasoning."
+    ],
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 16,
+      "carbs_g": 72,
+      "fat_g": 18
+    },
+    "substitutions": {
+      "parmesan": [
+        "nutritional yeast"
+      ],
+      "pine nuts": [
+        "walnuts",
+        "almonds"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 6,
+    "name": "Paneer Tikka Wrap",
+    "cuisine": "Indian",
+    "difficulty": "medium",
+    "time": 30,
+    "dietary": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "200 g paneer, cubed",
+      "4 roti/tortilla",
+      "1/2 cup yogurt",
+      "1 tsp tandoori masala",
+      "1/2 tsp salt",
+      "1/2 cup onion, sliced",
+      "1/2 cup bell peppers, sliced"
+    ],
+    "steps": [
+      "Mix yogurt, masala, salt; marinate paneer 10 min.",
+      "Saut\u00e9 paneer and veggies 6\u20138 min.",
+      "Warm rotis; fill and wrap."
+    ],
+    "nutrition": {
+      "calories": 600,
+      "protein_g": 28,
+      "carbs_g": 60,
+      "fat_g": 24
+    },
+    "substitutions": {
+      "paneer": [
+        "tofu"
+      ],
+      "yogurt": [
+        "vegan yogurt"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 7,
+    "name": "Tomato Soup",
+    "cuisine": "Global",
+    "difficulty": "easy",
+    "time": 25,
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "ingredients": [
+      "4 tomatoes",
+      "1 onion",
+      "2 cloves garlic",
+      "1 tbsp oil",
+      "2 cup vegetable stock",
+      "1/2 tsp salt",
+      "1/4 tsp pepper"
+    ],
+    "steps": [
+      "Saut\u00e9 onion and garlic in oil.",
+      "Add chopped tomatoes; cook 5 min.",
+      "Add stock; simmer 10 min.",
+      "Blend smooth; season and serve."
+    ],
+    "nutrition": {
+      "calories": 150,
+      "protein_g": 4,
+      "carbs_g": 22,
+      "fat_g": 5
+    },
+    "substitutions": {
+      "vegetable stock": [
+        "water + bouillon"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 8,
+    "name": "Shakshuka",
+    "cuisine": "Middle Eastern",
+    "difficulty": "medium",
+    "time": 30,
+    "dietary": [
+      "gluten-free"
+    ],
+    "ingredients": [
+      "4 eggs",
+      "2 cup tomatoes, crushed",
+      "1 onion, chopped",
+      "1 bell pepper, chopped",
+      "1 tsp cumin",
+      "1 tbsp oil",
+      "1/2 tsp salt"
+    ],
+    "steps": [
+      "Saut\u00e9 onion/pepper.",
+      "Add tomatoes, cumin, salt; simmer 10 min.",
+      "Make wells; crack eggs; cover and cook until set."
+    ],
+    "nutrition": {
+      "calories": 300,
+      "protein_g": 16,
+      "carbs_g": 18,
+      "fat_g": 18
+    },
+    "substitutions": {
+      "eggs": [
+        "tofu scramble"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 9,
+    "name": "Avocado Toast",
+    "cuisine": "American",
+    "difficulty": "easy",
+    "time": 10,
+    "dietary": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "2 slices bread",
+      "1 avocado",
+      "1/4 tsp salt",
+      "1/4 tsp chili flakes",
+      "1 tsp lemon juice"
+    ],
+    "steps": [
+      "Toast bread.",
+      "Mash avocado with salt and lemon.",
+      "Spread; top with chili flakes."
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein_g": 8,
+      "carbs_g": 34,
+      "fat_g": 18
+    },
+    "substitutions": {
+      "bread": [
+        "gluten-free bread"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 10,
+    "name": "Chicken Curry",
+    "cuisine": "Indian",
+    "difficulty": "medium",
+    "time": 40,
+    "dietary": [],
+    "ingredients": [
+      "400 g chicken",
+      "1 cup onion, sliced",
+      "1 cup tomato puree",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp turmeric",
+      "1 tsp chili powder",
+      "1 tsp coriander powder",
+      "1 tsp salt",
+      "2 tbsp oil"
+    ],
+    "steps": [
+      "Heat oil; cook onion golden.",
+      "Add ginger-garlic; 30s.",
+      "Add tomato + spices; cook 5\u20137 min.",
+      "Add chicken; cook 20 min till done."
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 36,
+      "carbs_g": 12,
+      "fat_g": 30
+    },
+    "substitutions": {
+      "chicken": [
+        "tofu",
+        "paneer"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 11,
+    "name": "Greek Salad",
+    "cuisine": "Mediterranean",
+    "difficulty": "easy",
+    "time": 15,
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "ingredients": [
+      "2 cup cucumber, chopped",
+      "1 cup tomato, chopped",
+      "1/2 cup olives",
+      "1/2 cup feta",
+      "2 tbsp olive oil",
+      "1 tsp lemon juice",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Combine all ingredients and toss."
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein_g": 8,
+      "carbs_g": 10,
+      "fat_g": 22
+    },
+    "substitutions": {
+      "feta": [
+        "paneer",
+        "tofu"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 12,
+    "name": "Dal Tadka",
+    "cuisine": "Indian",
+    "difficulty": "easy",
+    "time": 30,
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "ingredients": [
+      "1 cup yellow lentils",
+      "3 cup water",
+      "1 onion",
+      "1 tomato",
+      "1 tsp cumin",
+      "1 tsp mustard seeds",
+      "1 tbsp oil",
+      "1 tsp salt",
+      "1 tsp turmeric"
+    ],
+    "steps": [
+      "Boil lentils with turmeric and salt.",
+      "Temper cumin/mustard in oil; add onion/tomato; cook 3\u20134 min.",
+      "Mix into dal and simmer."
+    ],
+    "nutrition": {
+      "calories": 260,
+      "protein_g": 14,
+      "carbs_g": 38,
+      "fat_g": 6
+    },
+    "substitutions": {
+      "oil": [
+        "ghee"
+      ],
+      "yellow lentils": [
+        "red lentils"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 13,
+    "name": "Beef (or Soy) Stir-Fry",
+    "cuisine": "Asian",
+    "difficulty": "medium",
+    "time": 25,
+    "dietary": [],
+    "ingredients": [
+      "300 g beef strips or soy chunks",
+      "1 cup broccoli",
+      "1 cup bell peppers",
+      "2 tbsp soy sauce",
+      "1 tbsp oil",
+      "1 tsp garlic"
+    ],
+    "steps": [
+      "Stir-fry protein in oil.",
+      "Add veg; cook 3\u20134 min.",
+      "Add soy sauce; toss and serve."
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 30,
+      "carbs_g": 22,
+      "fat_g": 22
+    },
+    "substitutions": {
+      "beef": [
+        "soy chunks",
+        "tofu"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 14,
+    "name": "Quinoa Bowl",
+    "cuisine": "Global",
+    "difficulty": "easy",
+    "time": 20,
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "ingredients": [
+      "1 cup cooked quinoa",
+      "1/2 cup chickpeas",
+      "1/2 cup corn",
+      "1/2 cup bell peppers",
+      "1 tbsp olive oil",
+      "1 tsp lemon juice",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Combine all in a bowl; toss with oil, lemon, and salt."
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 12,
+      "carbs_g": 58,
+      "fat_g": 10
+    },
+    "substitutions": {
+      "quinoa": [
+        "brown rice"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 15,
+    "name": "Fish Tacos",
+    "cuisine": "Mexican",
+    "difficulty": "medium",
+    "time": 30,
+    "dietary": [],
+    "ingredients": [
+      "300 g white fish",
+      "6 small tortillas",
+      "1 cup cabbage, shredded",
+      "2 tbsp sour cream",
+      "1 tbsp lime juice",
+      "1/2 tsp chili powder",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Season fish; pan-cook 3\u20134 min each side.",
+      "Mix sour cream and lime.",
+      "Assemble tacos with cabbage and sauce."
+    ],
+    "nutrition": {
+      "calories": 450,
+      "protein_g": 28,
+      "carbs_g": 44,
+      "fat_g": 18
+    },
+    "substitutions": {
+      "tortillas": [
+        "lettuce cups"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 16,
+    "name": "Veg Pulao",
+    "cuisine": "Indian",
+    "difficulty": "easy",
+    "time": 30,
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "ingredients": [
+      "1 cup basmati rice",
+      "2 cup mixed vegetables",
+      "1 onion",
+      "1 tbsp oil",
+      "1 tsp cumin",
+      "1 tsp garam masala",
+      "1 tsp salt",
+      "2 cup water"
+    ],
+    "steps": [
+      "Saut\u00e9 cumin and onion.",
+      "Add vegetables; stir.",
+      "Add rice, water, salt, masala; cook until rice is done."
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 8,
+      "carbs_g": 72,
+      "fat_g": 8
+    },
+    "substitutions": {
+      "basmati rice": [
+        "quinoa"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 17,
+    "name": "Tofu Scramble",
+    "cuisine": "Global",
+    "difficulty": "easy",
+    "time": 15,
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "ingredients": [
+      "200 g firm tofu",
+      "1/4 tsp turmeric",
+      "1/4 tsp salt",
+      "1 tbsp oil",
+      "1/4 cup onion, chopped"
+    ],
+    "steps": [
+      "Crumble tofu; saut\u00e9 with onion, turmeric, salt for 5\u20136 min."
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein_g": 18,
+      "carbs_g": 6,
+      "fat_g": 14
+    },
+    "substitutions": {
+      "tofu": [
+        "paneer"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 18,
+    "name": "Pancakes",
+    "cuisine": "American",
+    "difficulty": "easy",
+    "time": 20,
+    "dietary": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "1 cup flour",
+      "1 tbsp sugar",
+      "1 tsp baking powder",
+      "1 cup milk",
+      "1 egg",
+      "1 tbsp butter",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Mix dry ingredients.",
+      "Whisk in milk and egg.",
+      "Cook ladles on a greased pan, flip when bubbles form."
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 12,
+      "carbs_g": 62,
+      "fat_g": 14
+    },
+    "substitutions": {
+      "milk": [
+        "plant milk"
+      ],
+      "egg": [
+        "flax egg"
+      ],
+      "flour": [
+        "gluten-free flour"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 19,
+    "name": "Falafel",
+    "cuisine": "Middle Eastern",
+    "difficulty": "hard",
+    "time": 45,
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "ingredients": [
+      "2 cup soaked chickpeas",
+      "1 onion",
+      "2 cloves garlic",
+      "1/4 cup coriander leaves",
+      "1 tsp cumin",
+      "1 tsp salt",
+      "Oil for frying"
+    ],
+    "steps": [
+      "Blend ingredients coarse.",
+      "Shape balls; fry until golden."
+    ],
+    "nutrition": {
+      "calories": 500,
+      "protein_g": 18,
+      "carbs_g": 48,
+      "fat_g": 28
+    },
+    "substitutions": {
+      "frying": [
+        "baking with spray oil"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 20,
+    "name": "Minestrone Soup",
+    "cuisine": "Italian",
+    "difficulty": "medium",
+    "time": 35,
+    "dietary": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "1 cup mixed vegetables",
+      "1/2 cup beans",
+      "1/2 cup pasta",
+      "1 onion",
+      "1 clove garlic",
+      "1 tbsp olive oil",
+      "1 liter vegetable stock",
+      "1/2 tsp salt"
+    ],
+    "steps": [
+      "Saut\u00e9 onion/garlic.",
+      "Add veg, stock; simmer 10 min.",
+      "Add beans/pasta; cook until pasta is done."
+    ],
+    "nutrition": {
+      "calories": 300,
+      "protein_g": 10,
+      "carbs_g": 48,
+      "fat_g": 8
+    },
+    "substitutions": {
+      "pasta": [
+        "gluten-free pasta"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 21,
+    "name": "Egg Fried Rice",
+    "cuisine": "Chinese",
+    "difficulty": "easy",
+    "time": 20,
+    "dietary": [],
+    "ingredients": [
+      "2 cup cooked rice",
+      "2 eggs",
+      "1/2 cup peas",
+      "1/4 cup carrot, diced",
+      "2 tbsp soy sauce",
+      "1 tbsp oil"
+    ],
+    "steps": [
+      "Scramble eggs; set aside.",
+      "Stir-fry veg in oil.",
+      "Add rice and soy sauce, toss; add eggs back in."
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 14,
+      "carbs_g": 66,
+      "fat_g": 12
+    },
+    "substitutions": {
+      "soy sauce": [
+        "tamari"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 22,
+    "name": "Caprese Salad",
+    "cuisine": "Italian",
+    "difficulty": "easy",
+    "time": 10,
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "ingredients": [
+      "2 tomatoes, sliced",
+      "120 g mozzarella",
+      "10 basil leaves",
+      "1 tbsp olive oil",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Layer tomato and mozzarella, top with basil, drizzle oil and salt."
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein_g": 16,
+      "carbs_g": 8,
+      "fat_g": 24
+    },
+    "substitutions": {
+      "mozzarella": [
+        "paneer",
+        "tofu"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 23,
+    "name": "Rajma",
+    "cuisine": "Indian",
+    "difficulty": "medium",
+    "time": 40,
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "ingredients": [
+      "2 cup cooked kidney beans",
+      "1 onion",
+      "1 cup tomato puree",
+      "1 tsp ginger-garlic paste",
+      "1 tsp garam masala",
+      "1 tsp salt",
+      "1 tbsp oil"
+    ],
+    "steps": [
+      "Saut\u00e9 onion in oil.",
+      "Add ginger-garlic; 30s.",
+      "Add tomato, masala, salt; cook 5 min.",
+      "Add beans; simmer 15\u201320 min."
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein_g": 16,
+      "carbs_g": 56,
+      "fat_g": 8
+    },
+    "substitutions": {
+      "kidney beans": [
+        "black beans"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 24,
+    "name": "Tuna Salad",
+    "cuisine": "American",
+    "difficulty": "easy",
+    "time": 10,
+    "dietary": [
+      "gluten-free"
+    ],
+    "ingredients": [
+      "1 can tuna",
+      "2 tbsp mayo",
+      "1/2 cup celery, chopped",
+      "1/4 tsp salt",
+      "1/4 tsp pepper"
+    ],
+    "steps": [
+      "Mix all together; serve on lettuce or bread."
+    ],
+    "nutrition": {
+      "calories": 300,
+      "protein_g": 26,
+      "carbs_g": 4,
+      "fat_g": 20
+    },
+    "substitutions": {
+      "mayo": [
+        "yogurt"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 25,
+    "name": "Bhindi Masala",
+    "cuisine": "Indian",
+    "difficulty": "medium",
+    "time": 30,
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "ingredients": [
+      "400 g okra",
+      "1 onion",
+      "1 tomato",
+      "1 tsp cumin",
+      "1 tbsp oil",
+      "1/2 tsp salt"
+    ],
+    "steps": [
+      "Saut\u00e9 cumin, onion.",
+      "Add okra; cook until non-sticky.",
+      "Add tomato and salt; cook 5\u20136 min."
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein_g": 6,
+      "carbs_g": 24,
+      "fat_g": 12
+    },
+    "substitutions": {
+      "okra": [
+        "zucchini"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 26,
+    "name": "Hummus Bowl",
+    "cuisine": "Middle Eastern",
+    "difficulty": "easy",
+    "time": 15,
+    "dietary": [
+      "vegan",
+      "gluten-free"
+    ],
+    "ingredients": [
+      "1 cup hummus",
+      "1 cup salad veggies",
+      "1 tbsp olive oil",
+      "1 pita"
+    ],
+    "steps": [
+      "Spread hummus; top with veggies; drizzle oil; serve with pita."
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 12,
+      "carbs_g": 50,
+      "fat_g": 18
+    },
+    "substitutions": {
+      "pita": [
+        "gluten-free pita",
+        "lettuce leaves"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 27,
+    "name": "Chocolate Mug Cake",
+    "cuisine": "Global",
+    "difficulty": "easy",
+    "time": 5,
+    "dietary": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "4 tbsp flour",
+      "2 tbsp cocoa",
+      "2 tbsp sugar",
+      "3 tbsp milk",
+      "1 tbsp oil",
+      "1/8 tsp baking powder"
+    ],
+    "steps": [
+      "Mix in a mug; microwave 1\u20132 min until set."
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein_g": 6,
+      "carbs_g": 58,
+      "fat_g": 14
+    },
+    "substitutions": {
+      "flour": [
+        "gluten-free flour"
+      ],
+      "milk": [
+        "plant milk"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 28,
+    "name": "Aloo Paratha",
+    "cuisine": "Indian",
+    "difficulty": "medium",
+    "time": 40,
+    "dietary": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "2 cup wheat flour",
+      "2 potato, boiled & mashed",
+      "1 tsp salt",
+      "1/2 tsp chili powder",
+      "1 tbsp oil",
+      "Water as needed"
+    ],
+    "steps": [
+      "Make dough with flour/water.",
+      "Mix potatoes with spices.",
+      "Stuff and roll parathas; cook on tawa with oil."
+    ],
+    "nutrition": {
+      "calories": 520,
+      "protein_g": 10,
+      "carbs_g": 86,
+      "fat_g": 14
+    },
+    "substitutions": {
+      "wheat flour": [
+        "gluten-free flour mix"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 29,
+    "name": "Chicken Caesar Salad",
+    "cuisine": "Italian-American",
+    "difficulty": "easy",
+    "time": 20,
+    "dietary": [],
+    "ingredients": [
+      "200 g chicken",
+      "2 cup lettuce",
+      "1/2 cup croutons",
+      "2 tbsp Caesar dressing",
+      "1 tbsp parmesan"
+    ],
+    "steps": [
+      "Cook and slice chicken.",
+      "Toss lettuce with dressing, top with chicken, croutons, parmesan."
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein_g": 32,
+      "carbs_g": 20,
+      "fat_g": 28
+    },
+    "substitutions": {
+      "croutons": [
+        "toasted nuts"
+      ],
+      "parmesan": [
+        "nutritional yeast"
+      ]
+    },
+    "servings": 2
+  },
+  {
+    "id": 30,
+    "name": "Vegetable Sandwich",
+    "cuisine": "Global",
+    "difficulty": "easy",
+    "time": 10,
+    "dietary": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "4 slices bread",
+      "1/2 cup cucumber",
+      "1/2 cup tomato",
+      "1/2 cup onion",
+      "2 tbsp butter",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Butter bread; layer veggies; season and serve."
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein_g": 8,
+      "carbs_g": 50,
+      "fat_g": 12
+    },
+    "substitutions": {
+      "bread": [
+        "gluten-free bread"
+      ]
+    },
+    "servings": 2
+  }
+]
